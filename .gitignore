@@ -363,3 +363,6 @@ MigrationBackup/
 FodyWeavers.xsd
 /ConsoleApp1.sln
 /ConsoleApp1/Program.cs
+
+
+./ConsoleApp1/Program.cs
